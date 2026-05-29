@@ -88,7 +88,7 @@ Currently building:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
   </a>
 
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://wisdomsportfolio.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/domain.png" width="30" height="30"/>
   </a>
 
