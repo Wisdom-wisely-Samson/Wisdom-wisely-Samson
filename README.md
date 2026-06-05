@@ -1,4 +1,4 @@
-# Hi 👋 I'm Wisdom Wisely
+# Hi 👋 I'm Wisdom Wisley
 
 ## 🚀 About Me
 
